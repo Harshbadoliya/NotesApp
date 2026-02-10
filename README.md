@@ -28,3 +28,6 @@ This project demonstrates modern Android development with MVVM architecture and 
 1. Clone the repository:
    ```bash
    git clone  https://github.com/Harshbadoliya/NotesApp.git
+2. Open in Android Studio
+3. Wait for Gradle sync
+4. Run on emulator or device
