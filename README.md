@@ -31,3 +31,18 @@ This project demonstrates modern Android development with MVVM architecture and 
 2. Open in Android Studio
 3. Wait for Gradle sync
 4. Run on emulator or device
+
+
+----
+
+## 📸 Screenshots
+
+### Home Screen
+![Home](screenshots/home.png)
+
+### Add Note Dialog
+![Add Note](screenshots/add_note.png)
+
+### Notes List
+![List](screenshots/list.png)
+
